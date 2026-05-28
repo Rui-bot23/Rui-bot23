@@ -1,24 +1,23 @@
 # Hi there, I'm Kies! 👋
 
-Welcome to my profile! I'm a 15-year-old tech enthusiast and student. I don't work a 9-to-5 yet, so right now I'm spending my time learning, building cool things, and exploring the world of coding. 
+Welcome to my profile! I'm a 15-year-old student and tech enthusiast. I don't work a 9-to-5 yet, so I spend my free time exploring code, building cool projects, and learning new things.
 
 ---
 
 ## 🚀 About Me
 
-* 🧑‍💻 **Age:** 15
-* 📚 **Status:** Full-time student & self-taught developer
-* 💡 **Interests:** Coding, gaming, and learning new technologies
-* 🌱 **Current Goal:** Leveling up my programming skills and working on fun side projects
+* 🧑‍💻 **Status:** Full-time student & self-taught coder
+* 💡 **Interests:** Coding, gaming, and exploring new tech
+* 🌱 **Current Goal:** Leveling up my skills and building fun projects
 
 ---
 
 ## 🛠️ My Tech Stack
 
-Here are some of the tools and languages I enjoy working with (or am currently learning!):
+Here are some of the tools and languages I enjoy working with (or am currently learning):
 
-* **Languages:** HTML, Python, JavaScript,Java
-* **Tools:** Git, GitHub, VS Code,Intellij
+* **Languages:** HTML, CSS, JavaScript
+* **Tools:** Git, GitHub, VS Code
 
 ---
 
