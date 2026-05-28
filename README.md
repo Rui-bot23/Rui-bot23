@@ -17,8 +17,8 @@ Welcome to my profile! I'm a 15-year-old tech enthusiast and student. I don't wo
 
 Here are some of the tools and languages I enjoy working with (or am currently learning!):
 
-* **Languages:** HTML, CSS, JavaScript
-* **Tools:** Git, GitHub, VS Code
+* **Languages:** HTML, Python, JavaScript,Java
+* **Tools:** Git, GitHub, VS Code,Intellij
 
 ---
 
